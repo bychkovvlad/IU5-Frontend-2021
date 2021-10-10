@@ -1,0 +1,596 @@
+body {
+    display: block;
+    margin: 0;
+    margin-bottom: 920px;
+   }
+
+   .firstBlockColor {
+        background-color:#F8765E;
+    
+   }
+
+   .landingWrapper {
+       display: flex;
+       flex-direction: column ;
+   }
+   
+   .menuWrapper {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    margin-left: 120px;
+    margin-right: 120px;
+    margin-top: 25px;
+   }
+
+   .menuItemWrapper {
+       display: flex;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 16px;
+    line-height: 32px;
+    color: #FFFFFF;
+   }
+   
+   .name {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 26px;
+    line-height: 58px;
+    color: #FFFFFF;
+   }
+   
+   .menuItem {
+    margin-left: 34px;
+   }
+
+   .firstBlock {
+       display: flex;
+       justify-content: space-between;
+       margin: 160px 120px   160px  120px;
+   }
+   
+   .firsBlockWrapper {
+       color: #FFFFFF;
+   }
+   
+   .title { 
+    font-style: normal;
+    font-weight: bold;
+    font-size: 48px;
+    line-height: 60px;
+   }
+   .firstParagraph {
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 32px;
+   }
+   
+   .formRegisration {
+    border-radius: 30px;
+    
+   }
+   
+   .emailAddres {
+    border-radius: 20px;
+    border-color: #FFFFFF;
+    box-shadow: inset 0px 1px 5px rgba(0, 0, 0, 0.3);
+    width: 218px;
+    height: 60px;
+   }
+   
+   .ButtonSubscribe {
+    background: #9BDBE7;
+    border-radius: 20px;
+    margin-left: 10px;
+    width: 128px;
+    height: 60px;
+   }
+   
+   .secondBlock {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0 120px ;
+    background-color: #FFFFFF;
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 760px;
+    border-radius: 20px;
+    padding: 0 48px;
+    box-shadow: 0px 10px 34px rgba(0, 0, 0, 0.15);
+   }
+   .step {
+    width: 300px;
+   }
+
+   .thirdBlock {
+    display: flex;
+    justify-content: space-between;
+    color: black;
+    margin-top: 400px;
+    margin-left:  120px;
+    margin-right: 120px;
+   }
+    
+   .none {
+       display: none;
+   }
+
+   .thirdRightBlock {
+    text-align: right;
+       
+   }
+
+   .thirdBlocktTitle {
+    color:#F8765E; 
+    font-family: Roboto;
+    font-style: normal;  
+    font-weight: bold;
+    font-size: 48px;
+    line-height: 60px;
+   }
+
+   .thirdBlockType {
+    color:#031D5B;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 34px;
+    line-height: 45px;
+
+   }
+
+   .thirdBlockDescription {
+    color: #5B6C94;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 32px;
+    margin-left: 100px;
+   }
+   
+   .ButtonSubscribe2 {
+   background: #9BDBE7;
+   border-radius: 20px;
+   width: 178px;
+   height: 60px;
+}
+
+.quoter {
+    margin-left: 120px;
+    margin-top: 200px;
+    width: 378px;
+    height: 415px;
+}
+
+.quoterText {
+    width: 328px;
+    height: 104px;
+    margin-left: 60px;
+    margin-top: -350px;
+    color:#F8765E;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 40px;
+    line-height: 48px;
+}
+
+.colorRegion {
+    position: absolute;
+    width: 810px;
+    height: 950px;
+    background-color:#f8765e;
+    border-radius: 20px 0px 0px 20px;
+    margin-left: 630px;
+    margin-top: 2100px;
+}
+
+.fourthBlock {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-left: 420px;
+    align-items: center;
+    margin-top: -210px;
+}
+
+.fourthLeftBlock {
+    width: 420px;
+    height: 500px;
+    background: #9BDBE7;
+    box-shadow: 12px 12px 40px rgba(0, 0, 0, 0.25);
+    border-radius: 20px;
+    z-index: 100;
+}
+
+.fourthRightBlock {
+    width: 420px;
+    height: 500px;
+    background: #FFFFFF;
+    box-shadow: 12px 12px 40px rgba(0, 0, 0, 0.25);
+    border-radius: 20px;
+    z-index: 100;
+    margin-right: 120px;
+}
+
+.smolQuoter {
+    width: 50px;
+    height: 40px;
+    margin-left: 50px;
+    margin-top: 80px;
+}
+
+.textFourthBlockOne1 {
+    width: 172px;
+    height: 130px;
+    margin-left: 50px;
+    margin-right: 70px;
+    margin-top: 20px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 36px;
+    color: #FFFFFF;
+}
+
+.textFourthBlockOne2 {
+    width: 180px;
+    height: 36px;
+    margin-top: 150px;
+    margin-left: 50px;
+    margin-right: 70px;
+    color: #FFFFFF;
+}
+
+
+.textFourthBlockTwo1 {
+    width: 172px;
+    height: 130px;
+    margin-left: 50px;
+    margin-right: 70px;
+    margin-top: 20px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 36px;
+    color:#7C7C7C;
+}
+
+.textFourthBlockTwo2 {
+    width: 220px;
+    height: 36px;
+    margin-top: 150px;
+    margin-left: 50px;
+    margin-right: 70px;
+    color:#777777;
+    ;
+}
+
+.fifthBlock {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: 310px;
+}
+
+.fifthBlockname {
+    color:#F8765E;
+    width: 812px;
+    height: 60px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 48px;
+    line-height: 60px;
+}
+
+.fifthBlockText {
+    width: 403px;
+    height: 45px;
+    margin-top: 18px;
+    margin-left: 210px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 34px;
+    line-height: 45px;
+    color: #CDCDCD;
+}
+
+.finalButtonSubscribe {
+    margin-top: 60px;
+    margin-left: 210px;
+}
+
+.sixthBlock {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 1440px;
+    height: 164px;
+    margin-top: -100px;
+    background-color:#F8765E  ;
+}
+
+.sixthBlockText {
+    width: 780px;
+    height: 32px;
+    margin-left: 550px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 25px;
+    color: #FFFFFF;
+}
+
+.endSixthBlock {
+    width: 780px;
+    height: 32px;
+    margin-left: 600px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 17px;
+    line-height: 32px;
+    color: #FFFFFF;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media (max-width: 600px) { 
+    .menuWrapper {
+        flex-direction: column;
+        margin-left: 30px;
+        margin-right: 30px;
+    }
+
+    .secondBlock {
+        /* display: none; */
+    }
+
+    .mandarinImage {
+        display: none;
+    }
+    .topMenu {
+        display: flex;
+        flex-direction: row;
+        width: 100%;
+    }
+
+    .menuItemWrapper {
+        display: flex;
+        justify-content: space-between;
+        width: 100%;
+    }
+    .menuItem {
+        margin-left: 0;
+    }
+    .firstBlock {
+        flex-direction: column-reverse;
+        margin-left: 30px;
+        margin-right: 30px;
+    }
+
+    .firstImage {
+        width: 250px;
+    }
+
+    .title {
+        font-weight: bold;
+        font-size: 30px;
+        line-height: 40px;
+    }
+
+    .firstParagraph {
+        font-weight: bold;
+        font-size: 16px;
+        line-height: 32px;
+        margin-top: 15px;
+    }
+
+    .formRegisration {
+        margin-left: 30px;
+    }
+
+    .secondBlock {
+        flex-direction: column;
+        justify-content:space-between;
+        width: 250px;
+        height: 1071px;
+        margin-top: 180px;
+        margin-left: 10px;
+    }
+
+    .threePhoto {
+        margin-left: 50px;
+        margin-bottom: 40px;
+    }
+
+    
+    .none {
+       display: flex;
+       flex-direction: column;
+       justify-content: space-between;
+       margin-top: 1000px;
+    }
+
+    .circle {
+        margin-left: 30px;
+        margin-top: -320px;
+    }
+    .phone2 {
+        width: 185px;
+        height: 360px;
+        margin-left: 86px;
+        margin-top: 60px;
+        z-index: 100;
+    }
+
+    .thirdRightBlock {
+        margin-top: -300px;
+        margin-left: -110px;
+    }
+
+    .thirdBlocktTitle {
+        width: 335px;
+        height: 60px;
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 30px;
+        line-height: 40px;
+        text-align: center;
+    }
+
+    .thirdBlockkType {
+        width: 315px;
+        height: 45px;
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: 500;
+        font-size: 26px;
+        line-height: 45px;
+        text-align: center;
+    }
+
+    .thirdBlockDescription {
+        width: 315px;
+        height: 250px;
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: 500;
+        font-size: 16px;
+        line-height: 32px;
+        margin-left: 10px;
+        margin-top: 40px;
+        text-align: center;
+    }
+    .ButtonSubscribe2 {
+        width: 178px;
+        height: 60px;
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 20px;
+        line-height: 24px;
+        color: #FFFFFF;
+        margin-top: 100px;
+        margin-right: 70px;
+        margin-bottom: 80px;
+    }
+    
+    .quoter {
+        margin-left: 20px;
+        margin-right: 500px;
+        width: 78px;
+        height: 104px;
+        margin-top: -2px;
+        z-index: 100;
+    }
+
+    .quoterText {
+        width: 162px;
+        height: 74px;
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: 500;
+        font-size: 26px;
+        line-height: 45px;
+        margin-right: 200px;
+        z-index: 100;
+    }
+
+    .colorRegion {
+        position: absolute;
+        margin-left: 56px;
+        margin-top: 3500px;
+        width: 300px;
+        height: 660px;
+    }
+
+    .fourthBlock {
+        margin-left: 20px;
+        margin-top: 300px;
+    }
+
+    .fifthBlock {
+        margin-left: 20px;
+        margin-top: 200px;
+    }
+
+    .fifthBlockname {
+        width: 294px;
+        height: 80px;
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 30px;
+        line-height: 40px;
+        text-align: center;
+    }
+    .fifthBlockText {
+        width: 308px;
+        height: 45px;
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: 500;
+        font-size: 26px;
+        line-height: 45px;
+        text-align: center;
+        margin-left: 0px;
+    }
+
+    .finalButtonSubscribe {
+        margin-left: 50px;
+        width: 335px;
+        height: 60px;
+    }
+
+    .sixthBlock {
+        width: 375px;
+    }
+
+    .sixthBlockText {
+        width: 300px;
+        margin-left: 30px;
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 17px;
+        line-height: 24px;
+        text-align: center;
+    }
+
+    .endSixthBlock {
+        width: 300px;
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 17px;
+        line-height: 20px;
+        text-align: center;
+        margin-left: 30px;
+    }
+}
